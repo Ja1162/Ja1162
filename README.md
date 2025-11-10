@@ -4,9 +4,12 @@
 - 🔭 I’m currently working on improving my knowledge stack and want to work on a project after that.
 - 📫 How to reach me: Connect with me on https://www.linkedin.com/in/j-agarwal or email me on jai.agarwal622@gmail.com
   
+  <!--
+  
 -⚡ Fun fact: I love sports and know how to play a lot of them including Cricket, Table Tennis, Badminton, and more!
 
-<!--
+
+
 **Ja1162/Ja1162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
