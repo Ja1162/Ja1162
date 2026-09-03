@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on interesting project ideas
 - 🔭 I’m currently working on improving my knowledge stack and want to work on a project after that.
 
-- 📫 How to reach me: Connect with me on https://www.linkedin.com/in/j-agarwal or email me on jai.agarwal622@gmail.com
+- 📫 How to reach me: Connect with me on https://www.linkedin.com/in/j-agarwal or email me on jai.agarwal157@gmail.com
   <!--
 
   
